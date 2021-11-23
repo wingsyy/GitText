@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Text : MonoBehaviour
 {
-    private string str = "First";
+    private string str = "Second";
 }
